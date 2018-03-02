@@ -1,0 +1,7 @@
+---
+solutionName: Prototype
+configPath:
+    D:\Source\yanpan\Github\Deploy-WebService-YAML\WebServiceDeployPrototype\.vs\config\applicationhost.config
+sites:
+    - site: Prototype.WebService
+    - site: WebSite1
